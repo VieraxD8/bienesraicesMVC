@@ -1,0 +1,26 @@
+@import 'base/normalize';
+@import 'base/variables';
+@import 'base/mixins';
+@import 'base/globales';
+@import 'base/utilidades';
+@import'base/darkMode';
+
+
+/** Hoja principal UI **/
+
+@import 'layout/footer';
+@import 'layout/header';
+@import 'layout/navegacion';
+@import 'layout/icono';
+@import 'layout/anuncios';
+@import 'layout/botones';
+@import 'layout/contactar';
+@import 'layout/inferior';
+@import 'layout/testimoniales';
+@import 'layout/formulario';
+
+
+/** pagonas internas **/
+
+@import 'internas/nosotros.scss';
+@import 'internas/admin';

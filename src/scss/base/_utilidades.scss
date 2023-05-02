@@ -1,0 +1,15 @@
+.seccion {
+    margin-top: calc($separacion / 2);
+    margin-bottom: calc($separacion / 2);
+}
+.contenido-centrado {
+    max-width: 80rem;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.seccion h1 {
+    word-break: break-all;
+}
